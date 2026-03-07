@@ -19,6 +19,7 @@ Go to the [Releases](../../releases) page to download the latest `CokersListMake
 This program is **Donationware**. It is completely free for non-commercial use. If it saves you time or reclaims massive amounts of hard drive space, please consider supporting the author:
 * **PayPal:** [Donate here](https://www.paypal.com/paypalme/SJCoker)
 * **GoFundMe:** [Genetic Genealogy Project](https://www.gofundme.com/f/genetic-genealogy)
-
+![Coker List Maker UI](CokersListMaker.png)
 ## License & Authorship
+
 Free for non-commercial use. You may copy and distribute it freely. For commercial use inquiries, please contact the author (SJCoker1) via Gmail or Yahoo.
