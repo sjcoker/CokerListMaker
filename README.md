@@ -1,4 +1,4 @@
-# Coker's List Maker (v10.5)
+# Coker's List Maker (v10.5.2)
 
 An advanced, multi-core ETL (Extract, Transform, Load) engine designed for forensic-level directory scanning, data analysis, and intelligent duplicate hunting. 
 
@@ -11,6 +11,8 @@ Originally conceived as a command-line script in 1993 by Steven James Coker, thi
 * **Workspace Flexibility:** Choose between the high-speed RAM engine (requires ~1GB RAM per 1M files) or the Disk/SQLite engine for lower-memory systems.
 * **Forensic Analytics:** Generates comprehensive dashboards tracking file extensions, largest files, and specifically accounting for skipped, hidden, and offline/cloud files.
 * **AI-Ready Exports:** Text chunks can be safely split (e.g., ~3 MB chunks) for ingestion into large language model context windows.
+* **Max Subfolder Depth Control:** Limit recursive scanning to specific levels (e.g., Top-level only or 2 levels deep).
+* **Smart CSV Chunking:** Large CSV exports are now automatically split into parts to ensure compatibility with AI tool upload limits.
 
 ## Installation
 Go to the [Releases](../../releases) page to download the latest `CokersListMaker_v10.5_Setup.exe` installer for Windows. 
